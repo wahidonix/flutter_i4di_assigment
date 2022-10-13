@@ -1,7 +1,7 @@
 # flutter_i4di_assigment
 Job interview assigment made in flutter
 
-Screens overview:  
+## **Screens overview:**  
 
 Verify screen:  
 <img src="/Verify.jpg" width="300"><br>
