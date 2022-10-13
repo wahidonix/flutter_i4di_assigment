@@ -1,14 +1,14 @@
 # flutter_i4di_assigment
 Job interview assigment made in flutter
 
-Screens overview:
+Screens overview:  
 
-Verify screen:
+Verify screen:  
 <img src="/Verify.jpg" width="300"><br>
 
-Report screens:
+Report screens:  
 <img src="/ReportScreen.jpg" width="300">
 <img src="/ReportScreenFilter.jpg" width="300"><br>
 
-Learn screen:
+Learn screen:  
 <img src="/LearnScreen.gif" width="300"><br>
