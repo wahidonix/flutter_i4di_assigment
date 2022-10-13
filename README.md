@@ -17,6 +17,7 @@ Learn screen:
 
 Download the code, open it in visual studio code and run   
 $flutter pub get  
-in the terminal, after that select an android emulator and run the app.
+in the terminal, after that select an android emulator and run the app.  
 
-[Download Minion](/SampleScreens_v1.apk "download")
+Or alternatively you can download the apk and test in on your android device
+[Download Apk](https://github.com/wahidonix/flutter_i4di_assigment/raw/main/SampleScreens_v1.apk "download")
