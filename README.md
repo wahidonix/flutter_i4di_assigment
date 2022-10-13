@@ -16,6 +16,6 @@ Learn screen:
 ## **Instructions:**  
 
 Download the code, open it in visual studio code and run   
-$flutter pub  
-get in the terminal, after that select an android emulator and run the app.
+$flutter pub get  
+in the terminal, after that select an android emulator and run the app.
 
