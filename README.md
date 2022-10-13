@@ -2,4 +2,4 @@
 Job interview assigment made in flutter
 
 ![](/Verify.jpg)
-![](Learn Screen.gif)
+![]([/Learn Screen.gif)
