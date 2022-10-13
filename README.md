@@ -19,3 +19,4 @@ Download the code, open it in visual studio code and run
 $flutter pub get  
 in the terminal, after that select an android emulator and run the app.
 
+[Download Minion](/SampleScreens_v1.apk "download")
