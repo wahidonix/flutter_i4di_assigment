@@ -20,4 +20,4 @@ $flutter pub get
 in the terminal, after that select an android emulator and run the app.  
 
 Or alternatively you can download the apk and test in on your android device
-[Download Apk](https://github.com/wahidonix/flutter_i4di_assigment/raw/main/SampleScreens_v1.apk "download")
+[Download Apk](https://github.com/wahidonix/flutter_i4di_assigment/raw/main/app-release.apk "download")
