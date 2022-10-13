@@ -11,4 +11,11 @@ Report screens:
 <img src="/ReportScreenFilter.jpg" width="300"><br>
 
 Learn screen:  
-<img src="/LearnScreen.gif" width="300"><br>
+<img src="/LearnScreen.gif" width="300"><br>  
+
+## **Instructions:**  
+
+Download the code, open it in visual studio code and run   
+$flutter pub  
+get in the terminal, after that select an android emulator and run the app.
+
